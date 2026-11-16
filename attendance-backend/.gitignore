@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+.evn
+.evn*
+!.env.example
+
+# Build artifacts
+dist/
+
+# Test coverage
+coverage/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
